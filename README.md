@@ -1,2 +1,2 @@
-# Discord-Bot
-Source code for my discord bot
+# Discord Bot
+Source code for my discord bot. Coded in python
